@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shakib210
+- 👋 Hi, I’m Nazmus Shakib
 - 👀 I’m interested in Javascipt
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
